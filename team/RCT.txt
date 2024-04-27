@@ -1,0 +1,6 @@
+#RoboCup Team Descriptor
+Team Name: Robot Club Toulonnais
+#Players - All lines below will be interpreted as the Players of this team with the following notation: <PLAYER MAC ADDRESS>,<PLAYER ID>
+5c:5f:67:ba:3d:94, R1
+5c:5f:67:ba:51:6c, R2
+88:78:73:d0:8a:f9, Dev
